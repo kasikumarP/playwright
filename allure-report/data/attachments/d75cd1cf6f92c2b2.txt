@@ -1,0 +1,66 @@
+6
+Fresh
+
+9
+MX Player
+4
+Sell
+11
+Bestsellers
+13
+Today's Deals
+7
+Mobiles
+12
+New Releases
+16
+Customer Service
+6
+Prime
+
+13
+ Electronics 
+14
+Home & Kitchen
+7
+Fashion
+10
+Amazon Pay
+5
+Books
+9
+Computers
+16
+Home Improvement
+15
+Car & Motorbike
+22
+Beauty & Personal Care
+10
+Gift Cards
+12
+Toys & Games
+26
+Sports, Fitness & Outdoors
+15
+Custom Products
+23
+Grocery & Gourmet Foods
+11
+Video Games
+33
+Health, Household & Personal Care
+4
+Baby
+7
+Audible
+12
+AmazonBasics
+12
+Pet Supplies
+16
+Subscribe & Save
+11
+Gift Ideas	
+7
+Flights
